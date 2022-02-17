@@ -48,7 +48,7 @@ In this directory, run AutoRest:
 ``` yaml
 require:
   - $(this-folder)/../readme.azurestack.md
-  - $(repo)/specification/azsadmin/resource-manager/network/readme.md
+  - D:\AzG\ian-fork\azure-rest-api-specs\specification\azsadmin\resource-manager\network\readme.md
 
 metadata:
   description: 'Microsoft AzureStack PowerShell: Network Admin cmdlets'
